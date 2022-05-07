@@ -1,3 +1,8 @@
+/*
+       Author : Rakotojaona Nambinina
+       email : Andrianoelisoa.rakotojaona@gmail.com
+       Description : Half Adder 
+*/
 module halfAdder (
        a,
        b,
